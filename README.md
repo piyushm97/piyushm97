@@ -1,16 +1,101 @@
-## Hi there 👋
+## Hey hi, see my profile and if you find anything disturbing please tell me and follow me too 👋
 
 <!--
 **piyushm97/piyushm97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi there 👋, I'm Piyush Mahajan</h1>
+<h3 align="center">Data Analyst | Machine Learning Engineer | Problem Solver</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/piyush-mahajan-b554aa124/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:pmahajan97@gmail.com">
+    <img src="https://img.shields.io/badge/Email-grey?logo=gmail&style=for-the-badge" />
+  </a>
+  <a href="https://piyushm97.github.io/piyush-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 Graduate student in **Technology Management** & **Business Analytics**  
+💼 Former **Senior System Engineer at Infosys** with 3+ years of experience  
+🔍 Passionate about system-driven solutions, automation, and machine learning  
+⚡ Currently building AI tools with NLP, ML pipelines, and dashboarding  
+🧠 Exploring the intersection of **cloud platforms**, **MLOps**, and **BI tools**
+
+---
+
+## 🔧 Tech Stack
+
+### 🔢 Programming
+`Java` · `Python` · `C/C++` · `SQL`
+
+### 📊 Data Science & ML
+`NumPy` · `Pandas` · `Scikit-learn` · `Random Forest` · `SVM` · `K-Means` · `Anomaly Detection`
+
+### 🛠️ Backend & Databases
+`Spring Boot` · `Spring MVC` · `MySQL` · `PostgreSQL` · `MongoDB` · `REST APIs`
+
+### ☁️ Cloud & Platforms
+`Google Cloud Platform (GCP)` · `AWS IoT Core` · `Docker`
+
+### 📈 Visualization & BI
+`Tableau` · `Power BI` · `Streamlit`
+
+### ⚙️ Tools & Practices
+`Ab Initio GDE` · `Git` · `Scrum` · `Jira` · `MLOps` · `Test-Driven Development (TDD)`
+
+---
+
+## 🚀 Projects
+
+### 🔹 [Smart Resume Matcher & Job Recommender](https://github.com/piyushm97/smart-resume-matcher)
+> AI-powered tool using **NLP & Sentence-BERT** to match resumes to job descriptions with 85%+ accuracy  
+> 📊 Built with Python, Streamlit, Docker · Uses cosine similarity for matching · End-to-end ML pipeline
+
+### 🔹 [IBM Employee Attrition Analysis](#)
+> Analyzed attrition factors using **SQL + MongoDB** and ER modeling  
+> 🔍 Focus on business-driven insights for workforce retention
+
+### 🔹 [Market Research Data Warehouse](#)
+> Designed a **Dimensional Fact Model** for customer behavior analysis  
+> 📂 Transformed transactional data into structured reporting schema
+
+### 🔹 [Smart Home Fault Detection System](#)
+> Real-time anomaly detection using **SVM & K-Means** for smart appliances  
+> 🌐 Integrated via AWS IoT Core and custom sensors
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piyushm97&show_icons=true&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushm97&layout=compact&theme=default" height="165" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=piyushm97&theme=flat&no-frame=true&column=6" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- ✉️ Email: [pmahajan97@gmail.com](mailto:pmahajan97@gmail.com)  
+- 🌐 Portfolio: [piyushm97.github.io/piyush-portfolio](https://piyushm97.github.io/piyush-portfolio/)  
+- 💼 LinkedIn: [linkedin.com/in/piyush-mahajan-b554aa124](https://www.linkedin.com/in/piyush-mahajan-b554aa124/)
+
+---
+
+⭐ *Thanks for visiting! Feel free to check out my pinned projects below ⬇️*
+
