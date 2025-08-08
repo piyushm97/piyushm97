@@ -3,6 +3,8 @@
 
 **piyushm97/piyushm97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Banner](https://raw.githubusercontent.com/piyushm97/piyushm97/main/banner.png)
+
 <h1 align="center">Hi there 👋, I'm Piyush Mahajan</h1>
 <h3 align="center">Data Analyst | Machine Learning Engineer | Problem Solver</h3>
 
@@ -28,26 +30,28 @@
 ⚡ Currently building AI tools with NLP, ML pipelines, and dashboarding  
 🧠 Exploring the intersection of **cloud platforms**, **MLOps**, and **BI tools**
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=piyushm97.piyushm97)
+
 ---
 
 ## 🔧 Tech Stack
 
-### 🔢 Programming
+### 🔢 Programming  
 `Java` · `Python` · `C/C++` · `SQL`
 
-### 📊 Data Science & ML
+### 📊 Data Science & ML  
 `NumPy` · `Pandas` · `Scikit-learn` · `Random Forest` · `SVM` · `K-Means` · `Anomaly Detection`
 
-### 🛠️ Backend & Databases
+### 🛠️ Backend & Databases  
 `Spring Boot` · `Spring MVC` · `MySQL` · `PostgreSQL` · `MongoDB` · `REST APIs`
 
-### ☁️ Cloud & Platforms
+### ☁️ Cloud & Platforms  
 `Google Cloud Platform (GCP)` · `AWS IoT Core` · `Docker`
 
-### 📈 Visualization & BI
+### 📈 Visualization & BI  
 `Tableau` · `Power BI` · `Streamlit`
 
-### ⚙️ Tools & Practices
+### ⚙️ Tools & Practices  
 `Ab Initio GDE` · `Git` · `Scrum` · `Jira` · `MLOps` · `Test-Driven Development (TDD)`
 
 ---
@@ -58,15 +62,15 @@
 > AI-powered tool using **NLP & Sentence-BERT** to match resumes to job descriptions with 85%+ accuracy  
 > 📊 Built with Python, Streamlit, Docker · Uses cosine similarity for matching · End-to-end ML pipeline
 
-### 🔹 [IBM Employee Attrition Analysis](#)
+### 🔹 [IBM Employee Attrition Analysis](https://github.com/piyushm97/ibm-employee-attrition-analysis)
 > Analyzed attrition factors using **SQL + MongoDB** and ER modeling  
 > 🔍 Focus on business-driven insights for workforce retention
 
-### 🔹 [Market Research Data Warehouse](#)
+### 🔹 [Market Research Data Warehouse](https://github.com/piyushm97/market-research-data-warehouse)
 > Designed a **Dimensional Fact Model** for customer behavior analysis  
 > 📂 Transformed transactional data into structured reporting schema
 
-### 🔹 [Smart Home Fault Detection System](#)
+### 🔹 [Smart Home Fault Detection System](https://github.com/piyushm97/smart-home-fault-detection)
 > Real-time anomaly detection using **SVM & K-Means** for smart appliances  
 > 🌐 Integrated via AWS IoT Core and custom sensors
 
@@ -96,6 +100,8 @@
 - 💼 LinkedIn: [linkedin.com/in/piyush-mahajan-b554aa124](https://www.linkedin.com/in/piyush-mahajan-b554aa124/)
 
 ---
+
+⭐ *Thanks for visiting! Feel free to check out my pinned projects below ⬇️*
 
 ⭐ *Thanks for visiting! Feel free to check out my pinned projects below ⬇️*
 
