@@ -1,10 +1,3 @@
-
-
-
-**piyushm97/piyushm97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Banner](https://raw.githubusercontent.com/piyushm97/piyushm97/main/banner.png)
-
 <h1 align="center">Hi there 👋, I'm Piyush Mahajan</h1>
 <h3 align="center">Data Analyst | Machine Learning Engineer | Problem Solver</h3>
 
