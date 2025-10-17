@@ -86,6 +86,18 @@
 
 ---
 
+## 🎮 Contribution Game
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushm97&theme=default" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/piyushm97/piyushm97/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 ## 📫 Connect with Me
 
 - ✉️ Email: [pmahajan97@gmail.com](mailto:pmahajan97@gmail.com)  
