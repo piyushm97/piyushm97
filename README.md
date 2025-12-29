@@ -69,34 +69,8 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushm97&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushm97&layout=compact&theme=default" height="165" />
-</p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=piyushm97&theme=flat&no-frame=true&column=6" />
-</p>
-
----
-
-## 🎮 Contribution Game
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushm97&theme=default" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/piyushm97/piyushm97/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 ## 📫 Connect with Me
 
