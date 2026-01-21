@@ -55,6 +55,10 @@
 > AI-powered tool using **NLP & Sentence-BERT** to match resumes to job descriptions with 85%+ accuracy  
 > 📊 Built with Python, Streamlit, Docker · Uses cosine similarity for matching · End-to-end ML pipeline
 
+### 🔹 [Disaster Recovery Project Management](https://github.com/piyushm97/disaster-recovery-project-management)
+> End‑to‑end **IT disaster recovery program** modeled with real PM artifacts  
+> 📌 Includes project charter, Gantt schedule, RACI matrix, risk & communication plans, and incident scenario/lessons learned
+
 ### 🔹 [IBM Employee Attrition Analysis](https://github.com/piyushm97/ibm-employee-attrition-analysis)
 > Analyzed attrition factors using **SQL + MongoDB** and ER modeling  
 > 🔍 Focus on business-driven insights for workforce retention
