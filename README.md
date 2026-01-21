@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Piyush Mahajan</h1>
-<h3 align="center">Data Analyst | Machine Learning Engineer | Problem Solver</h3>
+<h3 align="center">Software Developer | Data Analyst | Machine Learning Engineer | Problem Solver</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/piyush-mahajan-b554aa124/" target="_blank">
