@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Piyush Mahajan</h1>
-<h3 align="center">Software Developer | Data Analyst | Machine Learning Engineer | Problem Solver</h3>
+<h3 align="center">Software Developer | Data Analyst | Product Manager | Problem Solver</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/piyush-mahajan-b554aa124/" target="_blank">
@@ -18,7 +18,7 @@
 ## 👨‍💻 About Me
 
 🎓 Graduate student in **Technology Management** & **Business Analytics**  
-💼 Former **Senior System Engineer at Infosys** with 3+ years of experience  
+💼 Former **Product Manager at Infosys** with 3+ years of experience  
 🔍 Passionate about system-driven solutions, automation, and machine learning  
 ⚡ Currently building AI tools with NLP, ML pipelines, and dashboarding  
 🧠 Exploring the intersection of **cloud platforms**, **MLOps**, and **BI tools**
