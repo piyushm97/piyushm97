@@ -18,7 +18,7 @@
 ## 👨‍💻 About Me
 
 🎓 Graduate student in **Technology Management** & **Business Analytics**  
-💼 Former **Product Manager at Infosys** with 3+ years of experience  
+💼 Former **Senior System Engineer at Infosys** with 3+ years of experience  
 🔍 Passionate about system-driven solutions, automation, and machine learning  
 ⚡ Currently building AI tools with NLP, ML pipelines, and dashboarding  
 🧠 Exploring the intersection of **cloud platforms**, **MLOps**, and **BI tools**
